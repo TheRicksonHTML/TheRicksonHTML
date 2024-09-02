@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="left">bom dia, boa tarde e boa noite.</h1>
 
-<!--
-**TheRicksonHTML/TheRicksonHTML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">- oi meu nome e Rickosn atualmente estou fazendo curso de softwer no projeto da Loreal.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">- gosto de mangas e manhwas.<br>- Gosto de carrros.<br>-meu esportes favoritos sao altinha e volei.</h2>
+
+###
+
+<p align="left">📚 curso de front ...<br>🎯 me tornar um softwer<br>🎲 gosto muito de jogos</p>
+
+###
+
+
